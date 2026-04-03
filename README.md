@@ -1,4 +1,4 @@
-# High-Throughput, High-Quality: Unlocking GNINA for Precision Virtual Screening
+# High-Throughput, High-Quality: Benchmarking GNINA and AutoDock Vina for Precision Virtual Screening Workflow
 R. Buccheri¹ and A. Rescifina¹\
 ¹*University of Catania*
 
@@ -16,5 +16,5 @@ Complete database used in VS reporting SMILES codes of each decoy molecule (SMIL
 ## Citation
 If you find Zinc Package useful in your own research please cite:
 
-**High-Throughput, High-Quality: Unlocking GNINA for Precision Virtual Screening**\
-[Reference]
+**High-Throughput, High-Quality: Benchmarking GNINA and AutoDock Vina for Precision Virtual Screening Workflow**\
+[https://doi.org/10.3390/molecules30163361]
