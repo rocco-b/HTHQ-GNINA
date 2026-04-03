@@ -17,4 +17,4 @@ Complete database used in VS reporting SMILES codes of each decoy molecule (SMIL
 If you find Zinc Package useful in your own research please cite:
 
 **High-Throughput, High-Quality: Benchmarking GNINA and AutoDock Vina for Precision Virtual Screening Workflow**\
-[https://doi.org/10.3390/molecules30163361]
+DOI: https://doi.org/10.3390/molecules30163361
